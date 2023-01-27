@@ -1,5 +1,6 @@
 # Multi-UAV Trajectory Optimizer: A Sustainable System for Wireless Data Harvesting with Deep Reinforcement Learning
 This repo contains research materials.
+See https://authors.elsevier.com/a/1gUrN3OWJ94owl
 
 ## 1 agent, 32 x 32 map
 <img width="50%" src="https://user-images.githubusercontent.com/71582651/209935533-7d6b4db4-0f3c-4d94-908e-55c08c86a521.gif"/>
